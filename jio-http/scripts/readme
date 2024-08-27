@@ -1,0 +1,10 @@
+NAME="jio-http"
+VERSION="1.2.0"
+IMAGE="${NAME}:${VERSION}"
+
+
+//go to root folder jio-http
+
+docker build -t ${IMAGE} .
+./scripts/jio-http-compile.sh --version ${VERSION}
+./scripts/jio-http-package.sh --version ${VERSION}

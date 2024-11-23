@@ -1,5 +1,7 @@
 <img src="logo/package_twitter_itsywb76/black/full/coverphoto/black_logo_white_background.png" alt="logo"/>
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Support-yellow)](https://www.buymeacoffee.com/imrafaelmerino)
+
 - [Code wins arguments](#cwa)
 - [Introduction](#Introduction)
 - [jio-exp](#jio-exp)
